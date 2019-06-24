@@ -1,0 +1,11 @@
+dist/
+node_modules/
+lib/
+.idea/
+.vscode/
+version
+*.bzip2
+*.swp
+*.log
+.DS_Store
+.history/
